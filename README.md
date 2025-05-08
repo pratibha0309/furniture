@@ -1,2 +1,2 @@
 # furniture
-ecommerce website
+e-commerce website
